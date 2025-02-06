@@ -5,7 +5,7 @@ from telebot.util import quick_markup
 from telebot import types
 import HELP
 
-token = '7572245495:AAGh4bJnp6AEbvqlw4RC_lGAYSdvMgc_o2M'
+token = ''
 
 bot = telebot.TeleBot(token)
 my_name = 'Al'
